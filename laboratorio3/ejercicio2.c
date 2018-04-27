@@ -3,7 +3,10 @@
  *declaramos nuestras variables
  *ingresamos la temperatura
  *llamamos nuestro procedimiento llamado grados
- *llamamos a nuestro procedimiento termometro*/
+ *llamamos a nuestro procedimiento termometro
+ *se imprime el termometro indicando con un asterisco la temperatura que
+ *que le pidimos
+ *fin del programa*/
   
 
 
